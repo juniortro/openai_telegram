@@ -13,5 +13,4 @@ class OpenAiBot():
         except Exception as e:
             logger.warning("Ocorreu um erro: " + str(e))
 
-
 OpenAiBot()
